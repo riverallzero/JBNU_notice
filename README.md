@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/93754504/224007688-3e525c39-c2e1-41e2-9468-5833558188ac.png)
 
 ## 2. app.py
-[app.py](https://github.com/riverallzero/JBNU_notice/app.py)
+[app.py](https://github.com/riverallzero/JBNU_notice/blob/main/app.py)
 - send_email: 보내는사람 이메일 주소 입력
 - send_pw: 보내는사람 이메일 비밀번호 입력
 - 터미널에 "streamlit run app.py" 입력 후 실행
